@@ -1,4 +1,4 @@
-<img align="left" alt="Brain" width="300" src="http://gifimage.net/wp-content/uploads/2017/10/cerebro-gif-tumblr-3.gif">
+<img align="left" alt="Brain" width="300" src="https://imgur.com/a/XMO1EfO">
 
 <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif" width="20%">
 
@@ -6,8 +6,6 @@
 - 🧠 Currently learning about computational neuroscience and artificial intelligence
 - 👩‍💻 Lead Developer at my non-public-yet projects
 - 🧪 In search of neuroscience and decision intelligence research opportunities
-
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
 <br />
 <br />
