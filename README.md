@@ -16,7 +16,7 @@
 ### Connect with me :
 [![Developer Discord](https://discordapp.com/api/guilds/834066337117765694/widget.png?style=banner2)](https://discord.com/invite/9zsfGF8ASe)
 <br />
-[![Instagram Logo](https://icons.iconarchive.com/icons/uiconstock/flatin-social/64/instagram-icon.png)](https://www.instagram.com/gustiagung_19/)
+[![Instagram Logo](https://cdn-icons-png.flaticon.com/512/174/174855.png)](https://www.instagram.com/gustiagung_19/)
 <br />
 [![YouTube Logo](https://icons.iconarchive.com/icons/marcus-roberto/google-play/64/YouTube-icon.png)](https://www.youtube.com/c/GustiAgung)
 
