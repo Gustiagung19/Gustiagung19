@@ -1,5 +1,5 @@
 # I Made Gusti Agung
-
+![Gustiagung19 GitHub stats](https://github-readme-stats.vercel.app/api?username=Gustiagung19&show_icons=true&theme=tokyonight)
 ## Visitor Count
   <img src="https://profile-counter.glitch.me/Gustiagung19/count.svg" />
 
