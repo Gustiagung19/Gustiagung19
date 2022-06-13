@@ -21,3 +21,5 @@
 ## Socials
 [![GitHub Logo](https://icons.iconarchive.com/icons/limav/flat-gradient-social/64/Github-icon.png)](https://github.com/Gustiagung19)
 [![YouTube Logo](https://icons.iconarchive.com/icons/marcus-roberto/google-play/64/YouTube-icon.png)](https://www.youtube.com/c/GustiAgung)
+
+Credits: [iWanheda](https://github.com/iWanheda)
