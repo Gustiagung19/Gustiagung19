@@ -12,11 +12,10 @@
 
 ![Gustiagung19 GitHub stats](https://github-readme-stats.vercel.app/api?username=Gustiagung19&show_icons=true&theme=tokyonight)
 [![trophy](https://github-profile-trophy.vercel.app/?username=Gustiagung19&theme=onedark)](https://github.com/Gustiagung19/github-profile-trophy)
-## Visitor Count
-  <img src="https://profile-counter.glitch.me/Gustiagung19/count.svg" />
 
 ### Connect with me :
 [![Developer Discord](https://discordapp.com/api/guilds/834066337117765694/widget.png?style=banner2)](https://discord.com/invite/9zsfGF8ASe)
+<br />
 [![YouTube Logo](https://icons.iconarchive.com/icons/marcus-roberto/google-play/64/YouTube-icon.png)](https://www.youtube.com/c/GustiAgung)
 
 ### Visitor Count
