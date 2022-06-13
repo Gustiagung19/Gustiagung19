@@ -1,4 +1,4 @@
-<img align="left" alt="Brain" width="300" src="https://imgur.com/a/XMO1EfO.gif">
+<img align="left" alt="Brain" width="300" src="[http://gifimage.net/wp-content/uploads/2017/10/cerebro-gif-tumblr-3.gif](https://imgur.com/a/XMO1EfO)">
 
 <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif" width="20%">
 
