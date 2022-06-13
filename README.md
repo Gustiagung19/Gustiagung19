@@ -1,4 +1,4 @@
-<img align="left" alt="Brain" width="300" src="http://gifimage.net/wp-content/uploads/2017/10/cerebro-gif-tumblr-3.gif">
+<img align="left" alt="Brain" width="300" src="https://imgur.com/a/XMO1EfO.gif">
 
 <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif" width="20%">
 
@@ -15,6 +15,8 @@
 
 ### Connect with me :
 [![Developer Discord](https://discordapp.com/api/guilds/834066337117765694/widget.png?style=banner2)](https://discord.com/invite/9zsfGF8ASe)
+<br />
+[![Instagram Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png)](https://www.instagram.com/gustiagung_19/)
 <br />
 [![YouTube Logo](https://icons.iconarchive.com/icons/marcus-roberto/google-play/64/YouTube-icon.png)](https://www.youtube.com/c/GustiAgung)
 
