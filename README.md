@@ -1,4 +1,4 @@
-<img align="left" alt="Brain" width="300" src="http://gifimage.net/wp-content/uploads/2017/10/cerebro-gif-tumblr-3.gif">
+<img align="left" alt="Gustiagung19" width="300" src="http://gifimage.net/wp-content/uploads/2017/10/cerebro-gif-tumblr-3.gif">
 
 <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif" width="20%">
 
@@ -7,8 +7,9 @@
 - 👩‍💻 Lead Developer at my non-public-yet projects
 - 🧪 In search of neuroscience and decision intelligence research opportunities
 
-<br />
-<br />
+<br>
+<br>
+<br>
 
 ![Gustiagung19 GitHub stats](https://github-readme-stats.vercel.app/api?username=Gustiagung19&show_icons=true&theme=tokyonight)
 [![trophy](https://github-profile-trophy.vercel.app/?username=Gustiagung19&theme=onedark)](https://github.com/Gustiagung19/github-profile-trophy)
