@@ -2,10 +2,9 @@
 
 <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif" width="20%">
 
-- 👋 Hai, nama saya Gusti Agung, saya asal negara Indonesia 🇮🇩
-- 🧠 Currently learning about computational neuroscience and artificial intelligence
-- 👩‍💻 Lead Developer at my non-public-yet projects
-- 🧪 In search of neuroscience and decision intelligence research opportunities
+- 👋 Hi, my name is Gusti Agung, I'm from Indonesia
+- 🧠 Currently learning about programming
+- 👩‍💻 I am a developer and at the same time the owner of the Balinese Indonesian Roleplay server
 
 <br />
 <br />
