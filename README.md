@@ -1,4 +1,4 @@
-<img align="left" alt="Brain" width="300" src="https://imgur.com/a/XMO1EfO">
+<img align="left" alt="Brain" width="300" src="https://imgur.com/a/XMO1EfO.gif">
 
 <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif" width="20%">
 
