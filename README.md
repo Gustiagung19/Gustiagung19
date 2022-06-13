@@ -1,4 +1,17 @@
-# I Made Gusti Agung
+<img align="left" alt="Brain" width="300" src="http://gifimage.net/wp-content/uploads/2017/10/cerebro-gif-tumblr-3.gif">
+
+<img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif" width="20%">
+
+- 📚 I'm a Computer Science student at IST (Lisbon, Portugal)
+- 🧠 Currently learning about computational neuroscience and artificial intelligence
+- 👩‍💻 Lead Developer at my non-public-yet projects
+- 🧪 In search of neuroscience and decision intelligence research opportunities
+
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
+
+<br />
+<br />
+
 ![Gustiagung19 GitHub stats](https://github-readme-stats.vercel.app/api?username=Gustiagung19&show_icons=true&theme=tokyonight)
 [![trophy](https://github-profile-trophy.vercel.app/?username=Gustiagung19&theme=onedark)](https://github.com/Gustiagung19/github-profile-trophy)
 ## Visitor Count
