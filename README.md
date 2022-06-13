@@ -2,7 +2,7 @@
 
 <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif" width="20%">
 
-- 📚 I'm a Computer Science student at IST (Lisbon, Portugal)
+- 👋 Hai, nama saya Gusti Agung, saya asal negara Indonesia 🇮🇩
 - 🧠 Currently learning about computational neuroscience and artificial intelligence
 - 👩‍💻 Lead Developer at my non-public-yet projects
 - 🧪 In search of neuroscience and decision intelligence research opportunities
